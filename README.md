@@ -70,7 +70,7 @@ SiteTrack/
 ## 📚 Usage Overview
 
 ### 🔐 Login Screen  
-- Enter employee ID and password  
+- Enter employee ID and password  (default: 0000, 0000)
 - Access levels vary by user type  
 <img width="412" alt="login" src="https://github.com/user-attachments/assets/39609c21-684c-4ebb-b5bd-86ed14306ba6" />
 
