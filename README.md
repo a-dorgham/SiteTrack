@@ -4,7 +4,7 @@
 
 # SiteTrack O&M Management System
 
-SiteTrack is a comprehensive **MATLAB-based** application designed to manage **operations and maintenance (O&M)** activities. It includes dedicated modules for **warehouse inventory**, **road maintenance**, and **electrical infrastructure management**. With an intuitive interface, SiteTrack simplifies work order tracking, materials management, and report generation.
+SiteTrack is a comprehensive MATLAB-based application designed to manage operations and maintenance (O&M) activities. It includes dedicated modules for warehouse inventory, road maintenance, and electrical infrastructure management. With an intuitive interface, SiteTrack simplifies work order tracking, materials management, and report generation.
 
 ---
 
