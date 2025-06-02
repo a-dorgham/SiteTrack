@@ -1,0 +1,63 @@
+
+Work Order Number
+Supervising Engineer
+Day
+Date
+Work Performed by Entity
+Maintenance Type
+District
+Street
+Total Leveling Area - m2
+Length of Maintenance Area - m
+Width of Maintenance Area - m
+Total Maintenance Area - m2
+Image of Existing Condition Before Maintenance
+Image of Condition After Maintenance
+Maintenance Details
+Equipment and Tools Used
+6cm Existing Tiles - m2
+8cm Existing Tiles - m2
+Used 6cm Tiles - m2
+Used 8cm Tiles - m2
+New 6cm Tiles - m2
+New 8cm Tiles - m2
+25cm Front Stone - m
+25cm Existing Front Stone - m
+30cm Existing Front Stone - m
+30cm Existing Front Stone - m
+Base Course - ton
+Aggregate - ton
+Cement - bag
+Hot Asphalt - ton
+Cold Asphalt - ton
+Iron Bar - diameter 8 - number
+Iron Bar - diameter 10 - Number
+12" Diameter Iron Bar
+Description of Sewer/Water Works
+2" Pipe - Number
+4" Pipe - Number
+6" Pipe - Number
+3/4" Pipe - Length
+1" Pipe - Length
+2" Pipe - Length
+80cm Complete Manhole Cover - Number
+40cm Ring - Number
+60cm Ring - Number
+60cm Manhole Ceiling - Number
+80cm Manhole Ceiling - Number
+30cm Manhole Iron Casting - Number
+50cm Manhole Iron Casting - Number
+60cm Manhole Iron Casting - Number
+Description of Fencing Works
+Fencing (Length) - m
+Fencing (Height) - m
+Iron Angle Fixing - Number
+Description of Signs/Signs Works
+Signs Installation - Number
+Signs Installation - Number
+Painting Works Description
+Polycid Paint - Liter
+Oil Paint - Liter
+Superclear Paint - Liter
+Description of Works Other
+Amount of other work
