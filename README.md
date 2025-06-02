@@ -78,8 +78,7 @@ SiteTrack/
 ### 🏠 Main Menu  
 - Navigate to Roads, Buildings, or Electrical modules  
 - Access warehouse and reporting functions
-![categories](https://github.com/user-attachments/assets/3ab5e31a-3032-495d-b309-0fa6f91ec2a6)
-
+<img width="612" alt="categories" src="https://github.com/user-attachments/assets/3ab5e31a-3032-495d-b309-0fa6f91ec2a6" />
   
 
 ### 📝 Work Orders  
