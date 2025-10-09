@@ -8,17 +8,17 @@ SiteTrack is a comprehensive MATLAB-based application designed to manage operati
 
 ---
 
-## 🔧 Key Features
+## Key Features
 
-- 🏗️ **Modular System**: Manage roads, buildings, and electrical networks in one platform  
-- 📦 **Warehouse Management**: Track inventory of materials and equipment  
-- 🛣️ **Road Maintenance**: Log detailed work orders and maintenance activities  
-- ⚡ **Electrical Maintenance**: Monitor lighting, networks, and panel maintenance  
-- 📊 **Data Visualization**: Plot inventory trends and maintenance activity  
-- 📅 **Historical Filtering**: Review records by day, week, or month  
-- 📄 **Report Generation**: Export data to Word and Excel  
-- 🔒 **User Authentication**: Secure login for multi-user access  
-- 🖼️ **Image Support**: Attach before/after images for maintenance records  
+- Manage roads, buildings, and electrical networks in one platform  
+- Track inventory of materials and equipment  
+- Log detailed work orders and maintenance activities  
+- Monitor lighting, networks, and panel maintenance  
+- Plot inventory trends and maintenance activity  
+- Review records by day, week, or month  
+- Export data to Word and Excel  
+- Secure login for multi-user access  
+- Attach before/after images for maintenance records  
 
 ---
 
@@ -44,44 +44,44 @@ SiteTrack/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
-### 🔩 Prerequisites
+### Prerequisites
 
-- MATLAB **R2021b or later**
+- MATLAB R2021b or later
 - SQLite database generated with `createDB.m`
 
-### ⚙️ Setup Instructions
+### Setup Instructions
 
-1. **Configure Data Files**  
+1. Configure Data Files  
    - Customize field names and types in `assets/data/`  
    - Update `warehouse.xlsx` and `warehouseElec.xlsx` with your materials inventory
      
-2. **Create Database**  
+2. Create Database  
    - Run `createDB.m` from the `utilities/` folder  
    - Move the generated `dbOandM.db` to `assets/databases/`
 
-3. **Launch Application**  
+3. Launch Application  
    - Open MATLAB  
    - Run `SiteTrack.m`
 
 ---
 
-## 📚 Usage Overview
+## Usage Overview
 
-### 🔐 Login Screen  
+### Login Screen  
 - Enter employee ID and password  (default: 0000, 0000)
 - Access levels vary by user type  
 <img width="412" alt="login" src="https://github.com/user-attachments/assets/39609c21-684c-4ebb-b5bd-86ed14306ba6" />
 
 
-### 🏠 Main Menu  
+### Main Menu  
 - Navigate to Roads, Buildings, or Electrical modules  
 - Access warehouse and reporting functions
 <img width="612" alt="categories" src="https://github.com/user-attachments/assets/3ab5e31a-3032-495d-b309-0fa6f91ec2a6" />
   
 
-### 📝 Work Orders  
+### Work Orders  
 1. Choose module (e.g., Roads or Electrical)  
 2. Input:
    - Work description  
@@ -92,7 +92,7 @@ SiteTrack/
 
 
 
-### 📦 Warehouse Management  
+### Warehouse Management  
 - View/edit inventory  
 - Filter by category  
 - Track material usage  
@@ -101,7 +101,7 @@ SiteTrack/
 <img width="612" alt="warehouse" src="https://github.com/user-attachments/assets/219f5f3e-61e2-4f5a-bdc7-df68fea5f227" />
 
 
-### 🔍 Data Review  
+### Data Review  
 - Filter by date (daily/weekly/monthly)  
 - Search entries  
 - Export filtered data to reports
@@ -109,8 +109,8 @@ SiteTrack/
 <img width="612" alt="month_log" src="https://github.com/user-attachments/assets/6b2477c3-b010-4cf7-9bae-9d95037266f1" />
 
 
-### 📊 Reports  
-- Generate reports in **Word** and **Excel**  
+### Reports  
+- Generate reports in Word and Excel  
 - Create summaries or inventory status reports  
 
 <img width="613" alt="report_menu" src="https://github.com/user-attachments/assets/336b9d82-f8db-4d8f-8925-6c86dc94fc46" />
@@ -119,36 +119,27 @@ SiteTrack/
 
 ---
 
-## 🛠 Module Details
+## Module Details
 
-### 🏗️ Roads Maintenance
+### Roads Maintenance
 - Log concrete, asphalt, and interlock works  
 - Track infrastructure repairs, fencing, painting  
 
-### ⚡ Electrical Maintenance
+### Electrical Maintenance
 - Record lighting and panel maintenance  
 - Log line hazards, lantern installs, and materials  
 
-### 📦 Warehouse System
+### Warehouse System
 - Track multiple material categories  
 - Monitor stock levels and historical usage  
 - Set low-stock alerts  
 
 ---
 
-## ⚠️ Known Limitations
-
-- **Database Setup**: `createDB.m` must be run initially  
-- **Image Support**: Only PNG and JPG formats  
-- **Word Reporting**: Requires MS Word for full functionality  
-- **Concurrency**: Built for **single-user** use  
-
----
-
-## 🛠 Developer Notes
+## Developer Notes
 
 ### Database
-- Uses **SQLite** with schema defined in `createDB.m`  
+- Uses SQLite with schema defined in `createDB.m`  
 - Extensible for future features  
 
 ### Customization
@@ -162,18 +153,18 @@ SiteTrack/
 
 ---
 
-## 📜 License
+## License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the MIT License.
 
 ---
 
-## 📬 Contact
+## Contact
 
 For bug reports, feature requests, or collaboration:
 
-- **GitHub Issues**: [FEAnalysisApp Issues](https://github.com/a-dorgham/FEAnalysisApp/issues)
-- **Email**: a.k.y.dorgham@gmail.com
-- **Connect**: [LinkedIn](https://www.linkedin.com/in/abdeldorgham) | [GoogleScholar](https://scholar.google.com/citations?user=EOwjslcAAAAJ&hl=en)  | [ResearchGate](https://www.researchgate.net/profile/Abdel-Dorgham-2) | [ORCiD](https://orcid.org/0000-0001-9119-5111)
+- GitHub Issues: [FEAnalysisApp Issues](https://github.com/a-dorgham/FEAnalysisApp/issues)
+- Email: a.k.y.dorgham@gmail.com
+- Connect: [LinkedIn](https://www.linkedin.com/in/abdeldorgham) | [GoogleScholar](https://scholar.google.com/citations?user=EOwjslcAAAAJ&hl=en)  | [ResearchGate](https://www.researchgate.net/profile/Abdel-Dorgham-2) | [ORCiD](https://orcid.org/0000-0001-9119-5111)
 
 
